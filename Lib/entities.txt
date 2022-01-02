@@ -1,0 +1,19 @@
+Americans	9	18	NORP
+This year	100	109	DATE
+several days	117	129	DATE
+The Associated Press	161	181	ORG
+Saturday	211	219	DATE
+morning	220	227	TIME
+Joe Biden	266	275	PERSON
+the 46th	288	296	DATE
+the United States	310	327	GPE
+Wisconsin	396	405	GPE
+Pennsylvania	407	419	GPE
+Michigan	424	432	GPE
+Kamala Harris	457	470	PERSON
+California	474	484	GPE
+first	511	516	ORDINAL
+first	537	542	ORDINAL
+Asian	543	548	NORP
+American	549	557	NORP
+November through January	754	778	DATE
